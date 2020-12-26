@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Template for DS projects',
-    author='wiflore',
+    description='Ds template',
+    author='William Florez',
     license='MIT',
 )

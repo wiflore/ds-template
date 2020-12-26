@@ -186,7 +186,7 @@ latex_documents = [
     ('index',
      'ds-template.tex',
      u'ds-template Documentation',
-     u"wiflore", 'manual'),
+     u"William Florez", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'ds-template', u'ds-template Documentation',
-     [u"wiflore"], 1)
+     [u"William Florez"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -230,8 +230,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'ds-template', u'ds-template Documentation',
-     u"wiflore", 'ds-template',
-     'Template for DS projects', 'Miscellaneous'),
+     u"William Florez", 'ds-template',
+     'Ds template', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
